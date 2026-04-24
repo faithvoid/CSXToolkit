@@ -1,6 +1,14 @@
 # CSXToolkit
 Toolkit for modifying Counter-Strike Xbox assets. 
 
+### Roadmap
+- [x] SXWAD unpacker/packer
+- [ ] XPR unpacker/packer
+- [ ] MDL utilities
+- [ ] AIO toolkit for porting models/maps in only a few button presses
+- [ ] Sound conversion utility
+- [ ] Video conversion utility
+
 ## sxwad.py
 SXWAD extractor/compressor for the original Xbox, based off of the .sxwad portion of the GameExtractor source code by watto.
 
